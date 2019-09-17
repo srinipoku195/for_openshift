@@ -1,4 +1,4 @@
-package minishift_ongit;
+
 
 public class HelloClass {
 
